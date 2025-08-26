@@ -1,9 +1,0 @@
-{
-  "name": "node-lessons",
-  "version": "0.0.0",
-  "description": "Node lessons",
-  "main": "app.js",
-  "author": {
-    "name": ""
-  }
-}
